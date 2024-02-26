@@ -1,4 +1,4 @@
-# Hugo Gallery Theme
+# VictorRubioFoto
 
 A very simple and opinionated photo gallery theme for Hugo.
 
