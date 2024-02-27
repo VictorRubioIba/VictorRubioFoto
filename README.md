@@ -18,6 +18,7 @@ A very simple and opinionated photo gallery theme for Hugo.
 
 This theme is built with Tailwind CSS and requires Hugo >= 0.113, Node.js and NPM.
 
+VRI
 
 
 
