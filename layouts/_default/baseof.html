@@ -8,6 +8,6 @@
     <main class="h-full w-full grow">
       {{ block "main" . }}{{ end }}
     </main>
-    {{- partialCached "footer.html" . -}}
+    {{ partialCached "footer.html" . }}
   </body>
 </html>
