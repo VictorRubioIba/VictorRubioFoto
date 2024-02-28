@@ -72,6 +72,7 @@
       "hover:scale-[1.02]",
       "hover:shadow-lg",
       "hover:text-[--text-1]",
+      "hover:underline",
       "inline-flex",
       "items-center",
       "justify-between",
