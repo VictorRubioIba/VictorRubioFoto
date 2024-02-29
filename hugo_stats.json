@@ -29,6 +29,7 @@
       "ul"
     ],
     "classes": [
+      "align-middle",
       "antialiased",
       "aria-[current=true]:text-[--text-1]",
       "aspect-[3/2]",
@@ -50,11 +51,13 @@
       "font-bold",
       "font-medium",
       "font-semibold",
+      "fxLayoutAlign=",
       "gallery",
       "gallery-item",
       "gap-2",
       "gap-4",
       "gap-6",
+      "gap-8",
       "gap-x-6",
       "gap-y-8",
       "grid",

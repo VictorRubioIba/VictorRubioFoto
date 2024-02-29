@@ -30,22 +30,15 @@ html[data-theme=dark] {
   width: 100%;
   height: auto;
 }
- footer .social-media {
-  display: inline-block;
-  max-width: 768p 
-  text-align center;
+footer social-media {
+  display: flex;
+  justify-content: center;
   } 
-footer {
-  display: inline;
- 
-  padding-bottom: 3em;
-}
-footer a {
-  color: mid-gray;
-}
+
 footer li {
   display: inline;
- 
+  justify-content: space-between;
+  align-items: center;
 }
 footer li a {
   display: inline-block;

@@ -8,4 +8,5 @@
       {{ partial "album-card.html" . }}
     {{ end }}
   </div>
+  {{ block "footer" . }}{{ partialCached "footer.html" . }}{{ end }}
 {{ end }}
